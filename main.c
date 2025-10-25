@@ -2,6 +2,8 @@
 #include <string.h>
 #include <math.h>
 
+//change
+
 int main() {
 	char message[256]; //raw message
 	char key[256]; //raw key
