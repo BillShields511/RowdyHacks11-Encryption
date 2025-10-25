@@ -45,6 +45,7 @@ int main() {
 	}
 	printf("\n\n");
 
+	printf("lasjhd;liar;arj\n");
 
 
 	//decrypt
