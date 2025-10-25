@@ -46,7 +46,7 @@ int main() {
 	printf("\n\n");
 
 	printf("lasjhd;liar;arj\n");
-
+	printf("lasjhd;liar;arj\n");
 
 	//decrypt
 	for(i = 0; i < mlength; i++){
